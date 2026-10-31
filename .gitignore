@@ -1,0 +1,13 @@
+# Java 编译产物
+*.class
+
+# 后续构建工具可能产生的输出
+target/
+build/
+out/
+
+# 本地编辑器与个人配置
+.idea/
+*.iml
+.vscode/
+.env
